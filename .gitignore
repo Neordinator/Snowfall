@@ -1,0 +1,15 @@
+*
+!textures/BigMoon_852x480.png
+!textures/Snowflake1_32.png
+!textures/Snowflake2_32.png
+!textures/Snowflake3_32.png
+!.gitignore
+!/src/
+!Snowfall.pro
+!Snowfall.pro.user
+!src.qrc
+!main.cpp
+!viewexample.h
+!viewexample.cpp
+!snowflake.h
+!snowflake.cpp

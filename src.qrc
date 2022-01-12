@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>textures/Snowflake1_32.png</file>
+        <file>textures/Snowflake2_32.png</file>
+        <file>textures/Snowflake3_32.png</file>
+        <file>textures/BigMoon_852x480.png</file>
+    </qresource>
+</RCC>
